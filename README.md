@@ -22,9 +22,9 @@
 ##Implementation
 ###Model
 * Not sure yet...
-Heading 3: View
+###View
 * Not Sure yet... 
-Heading 3: Controller
+###Controller
 * AllStatusFeed:TableViewController, 
 * LoginPage:ViewController, 
 * MyStatusFeed:TableViewController, 
