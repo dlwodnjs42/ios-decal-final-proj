@@ -22,8 +22,10 @@
 ##Implementation
 ###Model
 * Not sure yet 
+
 ###View
 * Not Sure yet
+
 ###Controller
 * AllStatusFeed:TableViewController, 
 * LoginPage:ViewController, 
